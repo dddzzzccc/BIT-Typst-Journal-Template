@@ -4,6 +4,8 @@
 
 由于模板基本都已封装好了基本格式，所以不需要深入了解Typst，只需要了解一些基本的标记符号即可进行使用该模板。
 
+要预览导出的PDF论文文件，可参考仓库中的文件 `main.pdf` ，这也是编译后默认导出的文件名。
+
 ## 预备工作
 
 如果你对 LaTex、Markdown有一定了解，你可以直接在 VS Code中打开项目，并可以简单地使用 Tinymist Typst 插件编写、编译Typst。
@@ -133,10 +135,3 @@ Typst的语法十分简洁，由于已经预定义好了样式，只需要相关
 例如，在VS Code中，可以简单地使用 Tinymist Typst 插件编写Typst，选择 `Export PDF` 选项即可。
 
 <img src="img/image-20250610190000154.png" alt="image-20250610190000154" style="zoom:50%;" />
-
-
-
-
-
-
-
