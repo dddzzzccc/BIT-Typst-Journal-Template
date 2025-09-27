@@ -1,0 +1,20 @@
+{
+  "name": "Lecture Notebooks DevContainer",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "github.codespaces",
+        "github.copilot",
+        "github.copilot-chat",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "alwarg.git-branch-files",
+        "adam-bender.commit-message-editor",
+        "yzhang.markdown-all-in-one",
+        "howardzuo.vscode-git-tags",
+        "wayou.vscode-todo-highlight"
+      ]
+    }
+  }
+}
