@@ -13,7 +13,8 @@
         "adam-bender.commit-message-editor",
         "yzhang.markdown-all-in-one",
         "howardzuo.vscode-git-tags",
-        "wayou.vscode-todo-highlight"
+        "wayou.vscode-todo-highlight",
+        "wushuaibuaa.autocomplete-english-word"
       ]
     }
   }

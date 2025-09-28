@@ -1,21 +1,24 @@
+// 导入字体配置
+#import "font-config.typ": fonts
 #import "../config.typ": config,configEn
+
 #{
   // 设置标题
   set align(center)
-  set text(font: "SimHei", size: 22pt)
+  set text(font: fonts.hei, size: 22pt)
   [#config.title]
 }
 
 
 #{
   set align(center)
-  set text(font: "SimSun", size: 14pt)
+  set text(font: fonts.song, size: 14pt)
   [#config.author$#text[]^1$]
 }
 
 #{
   set align(center)
-  set text(font: "SimSun", size: 9pt)
+  set text(font: fonts.song, size: 9pt)
   [(1. #config.university #config.school, #config.city #config.zipcode)]
   v(1em)
 }
